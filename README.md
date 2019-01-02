@@ -19,7 +19,7 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 
 Many different types of patterns occur in the Game of Life, which are classified according to their behaviour. Common pattern types include: still lifes, which do not change from one generation to the next; oscillators, which return to their initial state after a finite number of generations; and spaceships, which translate themselves across the grid.
 
-*Inspired by Wikipedia. Go to https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life for more information*
+*Inspired by Wikipedia. Go to https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life for more information.*
 
 # Implementation
 
